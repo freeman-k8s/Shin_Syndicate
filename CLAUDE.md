@@ -1,0 +1,2 @@
+- Read AGENTS.md.
+- Write everything that Claude Code would normally put in CLAUDE.md into AGENTS.md instead.
