@@ -233,3 +233,6 @@ At the end, provide:
 4. Any remaining problems or unverified functionality.
 
 Prioritize a complete and working tiny game over an ambitious but incomplete implementation.
+
+## 90. Note
+- Refer to the three images in the img folder for the screen design. (However, this does not mean that the design must be reproduced exactly.)
